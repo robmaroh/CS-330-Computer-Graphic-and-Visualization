@@ -1,4 +1,4 @@
-# CS-330-Computer-Graphic-and-Visualization
+# Computer Graphics and Visualization using OpenGL
 
 How do I approach designing software?
   I want to first research what is required to be in the software, and if anything has already been written for this software. Next, I want to create a pseudocode outlining all of the functions and features that I want to add to the software. Then I will go about writing the software, keeping in mind to have all of the functions modular and commented, making it easier to debug or add to the code later. With this project, the most important thing was to look over the existing code and see what it did and how it related to the rest of the code. Then I would be able to add code that followed the existing design architecture. This course has taught me how to break down existing code and understand how it relates to other parts of the code, and how to add to that existing code to achieve what I want.
